@@ -1,7 +1,7 @@
 Hello, I am harshal kotkar
 
 - 🔭 I’m currently looking for a full time job as a ReactJs developer
-- 🌱 I’m currently developing site on MERN
+- 🌱 I’m currently developing site using MERN
 - 🤔 I’m looking for help with my recent Reactjs project
 - 💬 Ask me about information on Web Technologies
 - 📫 You can reach me through my gmail: harshalr.kotkar@gmail.com
