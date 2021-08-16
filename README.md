@@ -1,6 +1,6 @@
 Hello, I am harshal kotkar
 
-- 🔭 I’m currently looking for a full time job
+- 🔭 I’m currently looking for a full time job as a ReactJs developer
 - 🌱 I’m currently learning MERN
 - 🤔 I’m looking for help with my recent Reactjs project
 - 💬 Ask me about information on Web Technologies
